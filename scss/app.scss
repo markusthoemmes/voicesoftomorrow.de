@@ -1,6 +1,37 @@
 @charset 'utf-8';
 
-@import 'settings';
+/*
+ * FOUNDATION SPECIFIC SETTINGS
+ */
+$global-font-size: 115%;
+
+$black: #000000;
+$white: #fefefe;
+$body-background: $black;
+$body-font-color: $white;
+
+$body-font-family: 'Average', sans-serif;
+$header-font-family: 'Fjalla One', sans-serif;
+
+$header-styles: (
+  small: (
+    'h1': ('font-size': 24),
+    'h2': ('font-size': 60),
+    'h3': ('font-size': 36),
+    'h4': ('font-size': 18),
+    'h5': ('font-size': 17),
+    'h6': ('font-size': 16),
+  ),
+  medium: (
+    'h1': ('font-size': 48),
+    'h2': ('font-size': 72),
+    'h3': ('font-size': 48),
+    'h4': ('font-size': 25),
+    'h5': ('font-size': 20),
+    'h6': ('font-size': 16),
+  ),
+);
+
 @import 'foundation';
 
 @include foundation-global-styles;
