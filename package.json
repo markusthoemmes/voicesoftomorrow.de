@@ -1,0 +1,23 @@
+{
+  "name": "voices-of-tomorrow-website",
+  "version": "1.0.0",
+  "description": "Website für die Voices of Tomorrow Konzertreihe.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "foundation-sites": "^6.4.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-data": "^1.2.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-template": "^4.0.0",
+    "markdown-it": "^8.3.2"
+  },
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Markus Thömmes <markusthoemmes@me.com>"
+}
