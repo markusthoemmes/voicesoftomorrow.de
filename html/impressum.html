@@ -4,9 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foundation for Sites</title>
+    <title>Voices of Tomorrow - Impressum</title>
     <link href="https://fonts.googleapis.com/css?family=Average|Fjalla+One" rel="stylesheet">
-    <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?rd5re8">
     <link rel="stylesheet" href="css/app.css">
   </head>
 <body class="yellow">
@@ -54,54 +53,5 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
       </div>
     </div>
   </div>
-
-<script>
-ready(function() {
-  var els = document.querySelectorAll('.togglable');
-  Array.prototype.forEach.call(els, function(el, i) {
-    el.addEventListener('click', function() {
-      var hidden = 'togglable-hidden';
-      if (hasClass(el, hidden)) {
-        removeClass(el, hidden);
-      } else {
-        addClass(el, hidden);
-      }
-    });
-  });
-});
-
-
-function ready(fn) {
-  if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
-    fn();
-  } else {
-    document.addEventListener('DOMContentLoaded', fn);
-  }
-}
-
-function hasClass(el, className) {
-  if (el.classList) {
-    return el.classList.contains(className);
-  } else {
-    return el.className.indexOf(className) !== -1;
-  }
-}
-
-function addClass(el, className) {
-  if(el.classList) {
-    el.classList.add(className);
-  } else {
-    el.className += " " + className;
-  }
-}
-
-function removeClass(el, className) {
-  if (el.classList) {
-    el.classList.remove(className);
-  } else {
-    el.className = el.className.replace(new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
-  }
-}
-</script>
 </body>
 </html>
