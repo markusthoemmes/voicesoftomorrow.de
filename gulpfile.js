@@ -32,40 +32,38 @@ gulp.task('pages', () => {
   const years = data.map(site => site.year);
   const indexYear = years[0];
 
+  const generateFilename = year => year === indexYear ? 'index.html' : `${year}.html`
 
   return data.map(site => {
     if(site.info.text_file) {
-      site.info.text = markdown.render(fs.readFileSync(dataFolder + site.info.text_file,'utf8'));
+      site.info.text = markdown.render(fs.readFileSync(dataFolder + site.info.text_file, 'utf8'));
     }
 
     // Load markdown files and parse them accordingly
     site.lineup.map(band => {
       const text = fs.readFileSync(dataFolder + band.text_file,'utf8');
-      band.full_text = markdown.render(text + ' <span class="more">Weniger lesen</span>');
-      band.short_text = markdown.render(text.substr(0, characters) + '&hellip; <span class="more">Mehr lesen</span>');
+
+      if(text.length > characters) {
+        const shortenedText = text.substr(0, characters);
+        band.full_text = markdown.render(text + ' <span class="more">Weniger lesen</span>');
+        band.short_text = markdown.render(shortenedText + '&hellip; <span class="more">Mehr lesen</span>');
+      }
+      else {
+        band.full_text = markdown.render(text);
+        band.short_text = markdown.render(text);
+      }
       return band;
     });
 
     // Generate history links
-    site.history_links = years
-      .filter(year => year !== site.year)
-      .map(year => {
-        const value = {year: year};
-        if(year === indexYear) {
-          value.link = 'index.html'
-        } else {
-          value.link = `${year}.html`;
-        }
-        return value;
-      });
+    site.history_links = years.filter(year => year !== site.year).map(year => ({
+      year: year,
+      link: generateFilename(year)
+    }));
 
-    let filename = `${site.year}.html`;
-    if (site.year === indexYear) {
-      filename = 'index.html';
-    }
     return gulp.src('html/template.html')
       .pipe(template(site))
-      .pipe(rename(filename))
+      .pipe(rename(generateFilename(site.year)))
       .pipe(gulp.dest('dist'))
   });
 });
