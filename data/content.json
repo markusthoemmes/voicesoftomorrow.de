@@ -8,7 +8,7 @@
       "doors": "18:30",
       "cost": "5€",
       "text_file": "info2017.md",
-      "fb_event": "https://google.de"
+      "fb_event": "https://www.facebook.com/events/503793686628578"
     },
     "lineup": [
       {
@@ -16,7 +16,7 @@
         "text_file": "iamnoah.md",
         "video": "https://www.youtube.com/embed/BVQXNn5fL-I",
         "social": {
-          "facebook": "https://www.facebook.com/iamnoahofficial/",
+          "facebook": "https://www.facebook.com/pg/iamnoahofficial/",
           "spotify": "https://open.spotify.com/artist/49OXaocvNOoRM5zUxiXN8D",
           "youtube": "https://www.youtube.com/channel/UCU_owy6Yq3uWPt0pC-vPNSQ"
         }
@@ -26,7 +26,7 @@
         "text_file": "fearthesilence.md",
         "video": "https://www.youtube.com/embed/mt-hMWZYOIk",
         "social": {
-          "facebook": "https://www.facebook.com/FearTheSilenceOfficial/",
+          "facebook": "https://www.facebook.com/pg/FearTheSilenceOfficial/",
           "spotify": "https://open.spotify.com/artist/3Y0OmjQ0UAmkfVdvioFrLp",
           "youtube": "https://www.youtube.com/channel/UCHm4PotguofA8z4igovxQ0g"
         }
@@ -36,7 +36,7 @@
         "text_file": "whereeternityends.md",
         "video": "https://www.youtube.com/embed/BJBaC536154",
         "social": {
-          "facebook": "https://www.facebook.com/iamnoahofficial/",
+          "facebook": "https://www.facebook.com/pg/WhereEternityEndsBand/",
           "spotify": "https://open.spotify.com/artist/5kvKxPvBrDVhXhqvDdJhQ2",
           "youtube": "https://www.youtube.com/channel/UCIOUW3hDMIXoedZNQzTf-lg"
         }
@@ -46,7 +46,7 @@
         "text_file": "snowwhitealiced.md",
         "video": "https://www.youtube.com/embed/azyw8-IjkAI",
         "social": {
-          "facebook": "https://www.facebook.com/snowwhitealiced/",
+          "facebook": "https://www.facebook.com/pg/snowwhitealiced/",
           "spotify": "https://open.spotify.com/artist/6PFIzNzJxKmGwN507YIMWT",
           "youtube": "https://www.youtube.com/channel/UCXoU_oqYCgD9ezikdM_DGCQ"
         }
@@ -78,7 +78,7 @@
         "text_file": "fearthesilence.md",
         "video": "https://www.youtube.com/embed/mt-hMWZYOIk",
         "social": {
-          "facebook": "https://www.facebook.com/FearTheSilenceOfficial/",
+          "facebook": "https://www.facebook.com/pg/FearTheSilenceOfficial/",
           "spotify": "https://open.spotify.com/artist/3Y0OmjQ0UAmkfVdvioFrLp",
           "youtube": "https://www.youtube.com/channel/UCHm4PotguofA8z4igovxQ0g"
         }
@@ -88,7 +88,7 @@
         "text_file": "whereeternityends.md",
         "video": "https://www.youtube.com/embed/BJBaC536154",
         "social": {
-          "facebook": "https://www.facebook.com/iamnoahofficial/",
+          "facebook": "https://www.facebook.com/pg/WhereEternityEndsBand/",
           "spotify": "https://open.spotify.com/artist/5kvKxPvBrDVhXhqvDdJhQ2",
           "youtube": "https://www.youtube.com/channel/UCIOUW3hDMIXoedZNQzTf-lg"
         }
@@ -100,58 +100,6 @@
         "social": {
           "facebook": "https://www.facebook.com/pg/InsaneHumanityOfficial/",
           "youtube": "https://www.youtube.com/channel/UC-EK8-kDL70PQDzJTHxtZdg"
-        }
-      }
-    ]
-  },
-  {
-    "year": 2015,
-    "template": "red",
-    "info": {
-      "date": "24.04.2015",
-      "location": "Stuttgart Club Zentral",
-      "doors": "18:30",
-      "cost": "5€"
-    },
-    "lineup": [
-      {
-        "name": "Where Eternity Ends",
-        "text_file": "whereeternityends.md",
-        "video": "https://www.youtube.com/embed/BJBaC536154",
-        "social": {
-          "facebook": "https://www.facebook.com/iamnoahofficial/",
-          "spotify": "https://open.spotify.com/artist/5kvKxPvBrDVhXhqvDdJhQ2",
-          "youtube": "https://www.youtube.com/channel/UCIOUW3hDMIXoedZNQzTf-lg"
-        }
-      },
-      {
-        "name": "Fear The Silence",
-        "text_file": "fearthesilence.md",
-        "video": "https://www.youtube.com/embed/mt-hMWZYOIk",
-        "social": {
-          "facebook": "https://www.facebook.com/FearTheSilenceOfficial/",
-          "spotify": "https://open.spotify.com/artist/3Y0OmjQ0UAmkfVdvioFrLp",
-          "youtube": "https://www.youtube.com/channel/UCHm4PotguofA8z4igovxQ0g"
-        }
-      },
-      {
-        "name": "Venues",
-        "text_file": "venues.md",
-        "video": "https://www.youtube.com/embed/pO0_mPwxr7M",
-        "social": {
-          "facebook": "https://www.facebook.com/VENUESofficial/",
-          "spotify": "https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd",
-          "youtube": "https://www.youtube.com/c/BreakDownAVenue"
-        }
-      },
-      {
-        "name": "Defocus",
-        "text_file": "defocus.md",
-        "video": "https://www.youtube.com/embed/9JFLI2lDzBA",
-        "social": {
-          "facebook": "https://www.facebook.com/FearTheSilenceOfficial/",
-          "spotify": "https://open.spotify.com/artist/3PMK7ut2sDc8KKKJfbQTU3",
-          "youtube": "https://www.youtube.com/channel/UCjUuk5K3oN0oF9bfrRTZrsg"
         }
       }
     ]
