@@ -1,5 +1,59 @@
 [
   {
+    "year": 2018,
+    "template": "deep-red",
+    "info": {
+      "date": "17.11.2018",
+      "location": "Stuttgart Club Zentral",
+      "doors": "18:30",
+      "cost": "5€",
+      "text_file": "info2017.md",
+      "fb_event": "https://www.facebook.com/events/503793686628578"
+    },
+    "lineup": [
+      {
+        "name": "I Am Noah",
+        "text_file": "iamnoah.md",
+        "video": "https://www.youtube.com/embed/BVQXNn5fL-I",
+        "social": {
+          "facebook": "https://www.facebook.com/pg/iamnoahofficial/",
+          "spotify": "https://open.spotify.com/artist/49OXaocvNOoRM5zUxiXN8D",
+          "youtube": "https://www.youtube.com/channel/UCU_owy6Yq3uWPt0pC-vPNSQ"
+        }
+      },
+      {
+        "name": "Fear The Silence",
+        "text_file": "fearthesilence.md",
+        "video": "https://www.youtube.com/embed/mt-hMWZYOIk",
+        "social": {
+          "facebook": "https://www.facebook.com/pg/FearTheSilenceOfficial/",
+          "spotify": "https://open.spotify.com/artist/3Y0OmjQ0UAmkfVdvioFrLp",
+          "youtube": "https://www.youtube.com/channel/UCHm4PotguofA8z4igovxQ0g"
+        }
+      },
+      {
+        "name": "Where Eternity Ends",
+        "text_file": "whereeternityends.md",
+        "video": "https://www.youtube.com/embed/BJBaC536154",
+        "social": {
+          "facebook": "https://www.facebook.com/pg/WhereEternityEndsBand/",
+          "spotify": "https://open.spotify.com/artist/5kvKxPvBrDVhXhqvDdJhQ2",
+          "youtube": "https://www.youtube.com/channel/UCIOUW3hDMIXoedZNQzTf-lg"
+        }
+      },
+      {
+        "name": "Snow White Alice D",
+        "text_file": "snowwhitealiced.md",
+        "video": "https://www.youtube.com/embed/azyw8-IjkAI",
+        "social": {
+          "facebook": "https://www.facebook.com/pg/snowwhitealiced/",
+          "spotify": "https://open.spotify.com/artist/6PFIzNzJxKmGwN507YIMWT",
+          "youtube": "https://www.youtube.com/channel/UCXoU_oqYCgD9ezikdM_DGCQ"
+        }
+      }
+    ]
+  },
+  {
     "year": 2017,
     "template": "yellow",
     "info": {
