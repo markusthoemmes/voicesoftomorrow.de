@@ -1,0 +1,4 @@
+Aus vier verschiedenen Städten Norddeutschlands entfesseln Tide Has Turned seit 2012 Sphären der Melancholie unter dem Schleier eines brachialen sowie technischen Metalcore-Sounds. 
+Sie warten mit energiegeladenen wie auch atmosphärischen Liveshows auf, die von melodiösen Klängen und garstigen Vocals untermalt werden.
+
+Spätestens seit der 2017 veröffentlichten EP "Void" und dem dazu auf ItDjents erschienenen Musikvideo zu "Night Bearer", haben die Jungs im Underground weltweit für Aufmerksamkeit gesorgt. Nun wollen sie unaufhaltsam ihre niederschlagende Message über die Probleme der modernen Gesellschaft herausschreien.
