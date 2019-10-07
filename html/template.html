@@ -7,8 +7,8 @@
     <title>Voices of Tomorrow <%= year %> • Core vom Feinsten in der Schwabenmetropole</title>
     <meta name="twitter:title" property="og:title" content="Voices of Tomorrow <%= year %> • Core vom Feinsten in der Schwabenmetropole">
 
-    <meta name="description" content="Am 17.11.2018 geht das mittlerweile schon traditionelle Voices of Tomorrow in die vierte Runde. Der Stuttgarter Club Zentral wird ab 18:30 Uhr von feinstem Metalcore zerborsten.">
-    <meta name="twitter:description" property="og:description" content="Am 17.11.2018 geht das mittlerweile schon traditionelle Voices of Tomorrow in die vierte Runde. Der Stuttgarter Club Zentral wird ab 18:30 Uhr von feinstem Metalcore zerborsten.">
+    <meta name="description" content="STUTTGART! DAS VOT IST BACK! Es ist das fünfte Jahr, und wir sind noch lange nicht müde - nein. Gute Neuigkeiten: Weihnachten wurde vorverlegt! Und der Sack vom Metalcore-Weihnachtsmann ist durchsichtig.">
+    <meta name="twitter:description" property="og:description" content="STUTTGART! DAS VOT IST BACK! Es ist das fünfte Jahr, und wir sind noch lange nicht müde - nein. Gute Neuigkeiten: Weihnachten wurde vorverlegt! Und der Sack vom Metalcore-Weihnachtsmann ist durchsichtig.">
 
     <meta name="keywords" content="metal,core,metalcore,stuttgart,konzert,festival,fear the silence">
     <meta property="og:url" content="http://voicesoftomorrow.de">
@@ -77,9 +77,11 @@
             </div>
           </div>
           <div class="large-4 medium-4 cell">
+            <% if(band.video) { %>
             <div class="responsive-embed">
               <iframe src="<%= band.video %>" frameborder="0" allowfullscreen></iframe>
             </div>
+            <% } %>
             <% if(Object.keys(band.social).length > 0) { %>
             <div class="social">
               <% Object.keys(band.social).forEach(type => { %>
@@ -107,7 +109,7 @@
           </div>
 
           <div class="large-6 medium-6 cell copy">
-            &copy; 2018 by Fear The Silence | <a href="impressum.html">Impressum</a>
+            &copy; 2019 by Fear The Silence | <a href="impressum.html">Impressum</a>
           </div>
         </div>
       </div>

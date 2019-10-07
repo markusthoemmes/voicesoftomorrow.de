@@ -1,0 +1,3 @@
+Progressive Core - das ist das Spezialgebiet von Our Last Oath. Mit ihrer unvergleichlichen Mischung aus Djent, Deathcore, Black & Death Metal bringt das Stuttgarter Quintett die Bühnen der Republik zum Beben. In der 2018 neu aufgebauten Formation extrahieren Our Last Oath das Beste aus den modernen Genres und zeigen sich bereit alles aus dem Weg zu prügeln, was nicht bei drei am Abgehen ist! 
+
+Our Last Oath sind zurück und haben obendrauf auch noch eine neue EP am Start.

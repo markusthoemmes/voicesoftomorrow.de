@@ -1,0 +1,3 @@
+Epische Melodien, energische Riffs und bösartige Breakdowns. Diese geniale Mischung lässt das Herz eines jeden Metalfans höher schlagen. Mit der Leidenschaft für Musik und dem Spaß am performen bringen die sechs sympathischen Jungs aus Stuttgart sämtliche Clubs und Jugendhäuser auf ihrem Weg zum beben. Egal ob Harmoniegenießer, Mosher, Mitgröhler oder einfach nur Biertrinker - bei diesen Shows kommen alle auf ihre Kosten.
+
+Noch nicht überzeugt? Dann überzeuge dich selbst bei der nächsten Show!
