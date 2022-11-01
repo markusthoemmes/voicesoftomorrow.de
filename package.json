@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "devDependencies": {
     "foundation-sites": "^6.4.3",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-data": "^1.2.1",
     "gulp-imagemin": "^3.3.0",
